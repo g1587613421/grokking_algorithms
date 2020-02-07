@@ -1,3 +1,5 @@
+package A3_recursion.java.A3_factorial.src;
+
 public class Factorial2 {
     public static void main(String[] args) {
         Factorial2 factorial2 = new Factorial2();

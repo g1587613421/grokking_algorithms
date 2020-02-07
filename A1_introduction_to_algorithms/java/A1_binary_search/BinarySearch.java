@@ -1,3 +1,4 @@
+package A1_introduction_to_algorithms.java.A1_binary_search;
 public class BinarySearch {
 
     // has to return boxed integer in order to comfort to interface defined in the book

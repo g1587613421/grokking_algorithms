@@ -1,4 +1,4 @@
-package main;
+package A1_introduction_to_algorithms.java.A1_binary_search.main;
 
 public class BinarySearch {
     public static void main(String[] args) {
